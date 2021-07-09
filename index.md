@@ -1,18 +1,18 @@
 ---
 layout: home
-title: Just the Class
+title: Pi Star Lab Reading Group
 nav_exclude: true
 seo:
   type: Course
-  name: Just the Class
+  name: Pi Star Lab Reading Group
 ---
 
-# {{ site.tagline }}
+<!-- # {{ site.tagline }}
 {: .mb-2 }
 {{ site.description }}
-{: .fs-6 .fw-300 }
+{: .fs-6 .fw-300 } -->
 
-{% if site.announcements %}
+<!-- {% if site.announcements %}
 {{ site.announcements.last }}
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
@@ -63,3 +63,4 @@ $ bundle exec jekyll serve
 1. Reload your web browser after making a change to preview its effect.
 
 For more information, refer to [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
+ -->
